@@ -47,17 +47,17 @@ const items = [
             <div class="relative overflow-hidden w-[50%] h-44">
               <img
                 class="absolute h-56 w-full left-10"
-                src="/cardImage/webpage1.png"
+                src="/card-image/webpage1.png"
                 alt="Image"
               />
               <img
                 class="absolute h-56 w-full left-36"
-                src="/cardImage/webpage2.jpg"
+                src="/card-image/webpage2.jpg"
                 alt="Image"
               />
               <img
                 class="absolute h-56 w-full left-56 hover:left-64"
-                src="/cardImage/webpage3.webp"
+                src="/card-image/webpage3.webp"
                 alt="Image"
               />
             </div>
